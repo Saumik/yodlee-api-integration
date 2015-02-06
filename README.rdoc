@@ -1,6 +1,0 @@
-## bundle install
-
-## Go to rails console
-	# yodlee = Yodlee::Consumer.new
-	# yodlee.login
-	# consumer = yodlee.consumer
